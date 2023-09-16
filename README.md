@@ -27,11 +27,9 @@
 [![Eslint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)]()
 [![styledLinter](https://img.shields.io/badge/stylelint-000?style=for-the-badge&logo=stylelint&logoColor=white)]()
 
-<div>
   ![Junior-piovesan GitHub stats](https://github-readme-stats.vercel.app/api?username=junior-piovesan&show_icons=true&theme=highcontrast)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
-</div>
 <!--
 **Junior-Piovesan/Junior-Piovesan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
