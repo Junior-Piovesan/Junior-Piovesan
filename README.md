@@ -6,6 +6,19 @@
 ## Desenvolvedor Front-end
 ### Desenvolvedor Full-stack em desenvolvimento.
 
+<div>
+  <p>Atualmente estou me dedicando integralmente ao curso da Trybe, onde estou cursando o módulo de Back-end.</p>
+  <p>Neste módulo, vou aprender as principais tecnologias utilizadas no mercado de trabalho, que incluem:</p>
+  <ul>
+    <liDocker></li>
+    <li>SQL</li>
+    <li>Node.js</li>
+    <li>Programação Orientada a Objetos (POO) e SOLID</li>
+    <li>API Rest</li>
+  </ul>
+  <p>entre outras.</p>
+</div>
+
 
 ### Front-end:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
