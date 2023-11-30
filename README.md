@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4500&pause=1000&color=09C03A&random=false&width=560&lines=Olá%2C+Meu+nome+%C3%A9+Junior+Piovesan+%F0%9F%91%8B;Desenvolvedor+Front-End;Futuro+Desenvolvedor+Full-stack)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4500&pause=1000&color=09C03A&random=false&width=560&lines=Olá%2C+Meu+nome+%C3%A9+Junior+Piovesan+%F0%9F%91%8B;Desenvolvedor+Front-End;Futuro+Desenvolvedor+Full-Stack)](https://git.io/typing-svg)
 #
 
 ### Contato:
