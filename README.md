@@ -25,7 +25,6 @@
 
 #
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=26&duration=4500&pause=1000&color=6C38F7&repeat=false&random=false&width=435&lines=Back-End%3A)](https://git.io/typing-svg)
 
 [![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]()
@@ -48,7 +47,9 @@
 
 #
 
-![Junior-piovesan GitHub stats](https://github-readme-stats.vercel.app/api?username=junior-piovesan&show_icons=true&theme=highcontrast)
+![Junior-piovesan GitHub stats](https://github-readme-stats.vercel.app/api?username=junior-piovesan&show_icons=true&theme=highcontrast) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-piovesan&layout=compact)](https://github.com/juniorp-piovesan/github-readme-stats)
+
 
 [![Junior github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Junior-Piovesan&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
