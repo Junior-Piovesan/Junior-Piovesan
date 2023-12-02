@@ -25,8 +25,7 @@
 - Estudante de Desenvolvimento Web Ful-Stack
 - Mecânico diesel em Transição de carreira
 - Atualmente cursando módulo de Back-End
-- Portfólio [link](https://junior-piovesan.vercel.app/)
-- No momento estou aberto para um Estagiário ou uma nova oportunidade de emprego
+- No momento estou aberto para um Estágio ou uma nova oportunidade de emprego
 
 <br>
 
