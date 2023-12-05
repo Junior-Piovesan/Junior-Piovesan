@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=4200&pause=1000&center=true&random=false&width=435&height=100&lines=Ol%C3%A1!+Eu+sou+o;Junior+Piovesan;Desenvolvedor+Front+End" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&center=true&random=false&width=435&height=100&lines=Ol%C3%A1!+Eu+sou+o;Junior+Piovesan;Desenvolvedor+Front+End" alt="Typing SVG" />
 </a>
 </p>
 
@@ -72,9 +72,17 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![testingLibrary](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
 ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+![Sinon](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
 
 <br>
 
+- **Extras**:
+  
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 </p>
 
 -----
@@ -123,6 +131,14 @@
 <li>
 <a href="mailto:juniorpiovesan3022@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+</li>
+
+<br>
+
+<li>
+<a href="https://api.whatsapp.com/send?phone=5551985884913" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 </li>
 	
