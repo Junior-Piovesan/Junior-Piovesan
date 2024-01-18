@@ -22,8 +22,8 @@
 
 <br>
 
-- Mecânico diesel em Transição de carreira
-- Atualmente cursando módulo de Back-End
+- Mecânico diesel em transição de carreira
+- Atualmente cursando módulo de Ciência da computação
 - No momento estou aberto para um Estágio ou uma nova oportunidade de emprego
 
 <br>
