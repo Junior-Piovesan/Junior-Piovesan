@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&center=true&random=false&width=435&height=100&lines=Ol%C3%A1!+Eu+sou+o;Junior+Piovesan;Desenvolvedor+Front+End" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&center=true&random=false&width=435&height=100&lines=Ol%C3%A1!+Eu+sou+o;Junior+Piovesan;Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </a>
 </p>
 
@@ -22,7 +22,6 @@
 
 <br>
 
-- Estudante de Desenvolvimento Web Ful-Stack
 - Mecânico diesel em Transição de carreira
 - Atualmente cursando módulo de Back-End
 - No momento estou aberto para um Estágio ou uma nova oportunidade de emprego
