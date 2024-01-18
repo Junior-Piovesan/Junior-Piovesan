@@ -23,8 +23,8 @@
 <br>
 
 - Mecânico diesel em transição de carreira
-- Atualmente cursando módulo de Ciência da computação
-- No momento estou aberto para um Estágio ou uma nova oportunidade de emprego
+- Atualmente cursando módulo de ciência da computação
+- No momento estou aberto para um estágio ou uma nova oportunidade de emprego
 
 <br>
 
