@@ -21,9 +21,8 @@
  </p>
 
 <br>
-
 - Mecânico que mergulhou no mundo da tecnologia
-- Atualmente cursando módulo de ciência da computação
+- Sempre em busca de novos conhecimentos
 - Atualmente cursando módulo de ciência da computação
 - Estudando de forma complementar UI | UX e Figma.
 
