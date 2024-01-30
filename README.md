@@ -29,7 +29,7 @@
 <br>
 
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=16&center=false&vCenter=true&width=600&height=100&lines=Comunicação+interpessoal;Raciocínio+lògico;Autogerenciamento"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=16&duration=3200&center=false&vCenter=true&width=600&height=100&lines=Comunicação+efetiva;Raciocínio+lògico;Trabalho+em+equipe;Auto+liderança;Resiliência"></a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
