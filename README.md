@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&center=true&random=false&width=435&height=100&lines=Ol%C3%A1!+Eu+sou+o;Junior+Piovesan;Desenvolvedor+Full+Stack" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&center=true&random=false&width=435&height=100&lines=Junior+Piovesan;Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </a>
 </p>
 
@@ -22,9 +22,10 @@
 
 <br>
 
-- Mecânico diesel em transição de carreira
+- Mecânico que mergulhou no mundo da tecnologia
 - Atualmente cursando módulo de ciência da computação
-- No momento estou aberto para um estágio ou uma nova oportunidade de emprego
+- Atualmente cursando módulo de ciência da computação
+- Estudando de forma complementar UI | UX e Figma.
 
 <br>
 
