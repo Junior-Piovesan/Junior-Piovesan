@@ -26,10 +26,8 @@
 
 - Sempre em busca de novos conhecimentos
   
-- Atualmente estudando a linguagem C# e framework ASP.NET Core
+- Atualmente estudando UI | UX e Figma.
   
-- Estudando de forma complementar UI | UX e Figma.
-
 <br>
 
 <p align="left">
