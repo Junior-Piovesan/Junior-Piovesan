@@ -3,7 +3,7 @@
 <!--  -->
 <p align="center">
 <a href="https://git.io/typing-svg">
-	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&center=true&random=false&width=435&height=100&lines=Junior+Piovesan;Desenvolvedor+Front+End" alt="Typing SVG" />
+	<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3200&pause=700&center=true&random=false&width=435&height=100&lines=Junior+Piovesan;Desenvolvedor+Full+Stack" alt="Typing SVG" />
 </a>
 </p>
 
@@ -22,11 +22,11 @@
 
 <br>
 
-- Mecânico que mergulhou no mundo da tecnologia
-
-- Sempre em busca de novos conhecimentos
-  
-- Atualmente estudando UI | UX e Figma.
+<p>
+Desenvolvedor apaixonado pela criação de interfaces criativas, intuidivas e funcionais, <br>
+além de desenvolvimento Front End também tenho solido conhecimento no desenvolvimento Back End <br>
+o que me faz um desenvolvedor completo e preprado para encarar qualquer novo desafio.
+</p>
   
 <br>
 
